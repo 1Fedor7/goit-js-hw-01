@@ -13,4 +13,4 @@
 
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/ваш_никнейм/goit-js-hw-01.git
+   git clone https://github.com/1Fedor7/goit-js-hw-01.git
