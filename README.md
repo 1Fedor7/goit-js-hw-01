@@ -1,6 +1,6 @@
-# goit-js-hw-01
+# goit-js-hw-02
 
-Этот репозиторий содержит домашние задания по курсу JavaScript от GoIT, модуль первый.
+Этот репозиторий содержит домашние задания по курсу JavaScript от GoIT, модуль второй.
 
 ## Структура проекта
 
@@ -13,4 +13,4 @@
 
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/1Fedor7/goit-js-hw-01.git
+   git clone https://github.com/1Fedor7/goit-js-hw-02.git
